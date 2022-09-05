@@ -23,19 +23,19 @@ Please be sure to fill out the .env file with the proper data to connect to thes
     - Image: Media, many files
     - heatLevel: Short Text
 
-![](/contentful_img2)
+![](/contentful_img2.png)
 
-![](/contentful_img3)
+![](/contentful_img3.png)
 
-![](/contentful_img4)
+![](/contentful_img4.png)
 
-![](/contentful_img5)
+![](/contentful_img5.png)
 
-![](/contentful_img6)
+![](/contentful_img6.png)
 
-![](/contentful_img7)
+![](/contentful_img7.png)
 
-![](/contentful_img8)
+![](/contentful_img8.png)
 
 
 - Setup a webhook so that every time a product is created in Contentful it will also be created in Stripe with the same id
@@ -77,7 +77,7 @@ NUXT_DESKREE_BASE_URL="https://[project-id-here].api.deskree.com/api/v1"
     3. A users table comes with every new project but you should add a `cartId` column to it like this:
         - `cartId` (One-to-One Reference) (carts) (NOT required)
 
-![](/deskree_img1)
+![](/deskree_img1.png)
 
 - Next, select email/password for the login type. You can add other login types later if you’d like but we’ll just use email/password during the event. 
 
