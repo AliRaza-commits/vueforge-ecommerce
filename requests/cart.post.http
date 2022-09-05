@@ -1,0 +1,5 @@
+POST https://localhost:3000/api/cart HTTP/1.1
+content-type: application/json
+{
+    productIds:["1","2"];
+}
