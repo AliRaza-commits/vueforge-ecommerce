@@ -4,7 +4,7 @@
 
 ## Services
 
-During the event we'll use several 3rd party SaaS platforms to provide app funcationality like data storage, payment processing, etc. Those services include:
+3rd party SaaS platforms will be used to provide app funcationality like data storage, payment processing, etc. Those services include:
 
 - Deskree
 - Contentful CMS
