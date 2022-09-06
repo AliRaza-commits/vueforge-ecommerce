@@ -12,7 +12,10 @@ During the event we'll use several 3rd party SaaS platforms to provide app funca
 
 Please be sure to fill out the .env file with the proper data to connect to these services.
 
-## Step In Contentful 
+## Project Demo
+To check the project demo, click this [link](https://www.youtube.com/watch?v=ksc18WAfU-8)
+
+## Steps Required In Contentful 
 -  Create a new content type in Contentful called “Product”
 ![](/contentful_img1)
 -  Give the product the following fields:
@@ -54,7 +57,7 @@ Please be sure to fill out the .env file with the proper data to connect to thes
 
 - Create some of your own products to sell 😃
 
-## Step In Deskree
+## Steps Required In Deskree
 - Create a New Project
 
 - This will launch a wizard to start the new project. Fill the first step as you see fit. Take the project id you added here and use it in the project .env like so:
